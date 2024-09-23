@@ -23,4 +23,13 @@ Jadi tools yang digunakan oleh website ini bisa diurutkan sebagai berikut :
 2. Hugo ( Web Static generator )
 3. Obsidian ( Editor untuk menulis artikel)
 
+Kurang lebih seperti itu untuk tools yang digunakan website ini.
+
+Kenapa saya menggunakan Obsidian sebagai Text Editor ?  
+
+```
+Karena saya seorang developer dan menyukai sesuai
+```
+
+
 
