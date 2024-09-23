@@ -20,5 +20,7 @@ Pada tulisan kali ini saya menulis artikel menggunakan Obsidian sebagai main Tex
 Jadi tools yang digunakan oleh website ini bisa diurutkan sebagai berikut : 
 
 1. Github Pages ( Server website static )
+2. Hugo ( Web Static generator )
+3. Obsidian ( Editor untuk menulis artikel)
 
 
