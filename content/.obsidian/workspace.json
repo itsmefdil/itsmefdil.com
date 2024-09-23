@@ -151,8 +151,9 @@
   "lastOpenFiles": [
     "blog/how-to-use-geeky.md",
     "blog/bagaimana-cara-intergrasi-hugo-dengan-obsidian.md",
-    "contact.md",
     "about.md",
+    "privacy-policy.md",
+    "contact.md",
     "blog/_index.md",
     "blog/post-2.md",
     "blog/post-8.md",
@@ -161,7 +162,6 @@
     "blog/post-4.md",
     "blog/post-3.md",
     "blog/post-6.md",
-    "privacy-policy.md",
     "search.md"
   ]
 }
