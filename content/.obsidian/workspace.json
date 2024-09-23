@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/how-to-integrate-hugo-with-obsidian.md",
+                "file": "blog/bagaimana-cara-intergrasi-hugo-dengan-obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/how-to-integrate-hugo-with-obsidian.md",
+                "file": "blog/bagaimana-cara-intergrasi-hugo-dengan-obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/how-to-integrate-hugo-with-obsidian.md",
+                "file": "blog/bagaimana-cara-intergrasi-hugo-dengan-obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/how-to-integrate-hugo-with-obsidian.md"
+                "file": "blog/bagaimana-cara-intergrasi-hugo-dengan-obsidian.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "e6355559ef4df4f2",
   "lastOpenFiles": [
     "blog/how-to-use-geeky.md",
-    "blog/how-to-integrate-hugo-with-obsidian.md",
+    "blog/bagaimana-cara-intergrasi-hugo-dengan-obsidian.md",
     "blog/_index.md",
     "blog/post-2.md",
     "blog/post-8.md",
