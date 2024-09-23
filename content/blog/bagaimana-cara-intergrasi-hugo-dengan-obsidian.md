@@ -13,3 +13,6 @@ type: featured
 draft: false
 sitemapExclude: false
 ---
+### Halo Semuanya
+
+Pada tulisan kali ini saya menulis artikel menggunakan Obsidian sebagai main Text Ed
