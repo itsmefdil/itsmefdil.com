@@ -7,6 +7,10 @@
 3. Run `hugo server --themesDir .` in the repository root
 4. Open `localhost:1313` in your browser
 
+## Create Content
+
+1. Run `hugo new blog/<post-name>.md` to create a new post
+
 ## Build
 
 1. Clone this repository

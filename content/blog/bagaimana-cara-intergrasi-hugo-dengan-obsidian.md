@@ -1,18 +1,13 @@
 ---
-title: Bagaimana cara integrasi hugo dengan obsidian
-description: New Article
-image: images/post/how-to-use-geeky.jpeg
-date: 2024-09-23T18:19:25+06:00
-categories:
-  - tutorial
-tags:
-  - notes
-  - obsidian
-  - hugo
-type: featured
+title: "Bagaimana cara integrasi hugo dengan obsidian"
+description: "New Article"
+image: "images/post/how-to-use-geeky.jpeg"
+date: 2024-09-23T14:33:31+07:00
+categories: ["notes"]
 draft: false
 sitemapExclude: false
 ---
+
 ### Halo Semuanya
 
 Pada tulisan kali ini saya menulis artikel menggunakan Obsidian sebagai main Text Editor untuk menulis di website ini yang di tenagai oleh hugo dan github pages.
