@@ -1,7 +1,7 @@
 {
   "commitMessage": "feat: add/update article : {{files}}  {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 2,
+  "autoSaveInterval": 1,
   "autoPushInterval": 10,
   "autoPullInterval": 3,
   "autoPullOnBoot": false,

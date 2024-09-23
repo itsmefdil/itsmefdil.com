@@ -15,4 +15,10 @@ sitemapExclude: false
 ---
 ### Halo Semuanya
 
-Pada tulisan kali ini saya menulis artikel menggunakan Obsidian sebagai main Text Ed
+Pada tulisan kali ini saya menulis artikel menggunakan Obsidian sebagai main Text Editor untuk menulis di website ini yang di tenagai oleh hugo dan github pages.
+
+Jadi tools yang digunakan oleh website ini bisa diurutkan sebagai berikut : 
+
+1. Github Pages ( Server website static )
+
+
