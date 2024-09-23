@@ -28,7 +28,7 @@ Kurang lebih seperti itu untuk tools yang digunakan website ini.
 Kenapa saya menggunakan Obsidian sebagai Text Editor ?  
 
 ```
-Karena saya seorang developer dan menyukai sesuai
+Karena saya seorang developer dan menyukai sesuatu hal yang berkaitan dengan tools2 developer , Obsidian ini banyak digunakan oleh developer dan sangat bagus secara fitur dan banyak juga plugin yang dikembangkan oleh komunitas.
 ```
 
 
