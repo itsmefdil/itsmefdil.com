@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://itsmefdil.com"
+baseURL = "https://itsmefdil-com.pages.dev"
 title = "Fadilah Riczky | Personal Blog"
 theme = "geeky-hugo"
 languageName = "En"
